@@ -1,0 +1,4 @@
+D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.csprojAssemblyReference.cache
+D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.AssemblyInfoInputs.cache
+D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.AssemblyInfo.cs
+D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.csproj.CoreCompileInputs.cache

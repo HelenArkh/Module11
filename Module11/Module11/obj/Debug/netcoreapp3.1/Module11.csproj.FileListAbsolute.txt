@@ -2,3 +2,15 @@ D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.cspro
 D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.AssemblyInfoInputs.cache
 D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.AssemblyInfo.cs
 D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.csproj.CoreCompileInputs.cache
+D:\VS_Projects\Module11\Module11\Module11\bin\Debug\netcoreapp3.1\Module11.exe
+D:\VS_Projects\Module11\Module11\Module11\bin\Debug\netcoreapp3.1\Module11.deps.json
+D:\VS_Projects\Module11\Module11\Module11\bin\Debug\netcoreapp3.1\Module11.runtimeconfig.json
+D:\VS_Projects\Module11\Module11\Module11\bin\Debug\netcoreapp3.1\Module11.runtimeconfig.dev.json
+D:\VS_Projects\Module11\Module11\Module11\bin\Debug\netcoreapp3.1\Module11.dll
+D:\VS_Projects\Module11\Module11\Module11\bin\Debug\netcoreapp3.1\Module11.pdb
+D:\VS_Projects\Module11\Module11\Module11\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VS_Projects\Module11\Module11\Module11\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.csproj.CopyComplete
+D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.dll
+D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.pdb
+D:\VS_Projects\Module11\Module11\Module11\obj\Debug\netcoreapp3.1\Module11.genruntimeconfig.cache
